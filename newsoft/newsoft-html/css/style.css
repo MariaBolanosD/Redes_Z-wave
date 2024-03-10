@@ -407,6 +407,15 @@ a:focus {
   color: #fff;
 }
 
+.who_section .who_img-box2 {
+  background-color: #fff;
+  border-radius: 100%;
+  margin: 3%;
+  transform: scale(1.01) translateX(-10%);
+  overflow: hidden;
+  width: 60%;
+}
+
 .who_section .who_img-box {
   background-color: #fff;
   border-radius: 100%;
