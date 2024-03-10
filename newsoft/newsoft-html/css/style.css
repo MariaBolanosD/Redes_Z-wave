@@ -410,6 +410,7 @@ a:focus {
 .who_section .who_img-box {
   background-color: #fff;
   border-radius: 100%;
+  padding: 100px;
   margin: 3%;
   transform: scale(1.01) translateX(-10%);
   overflow: hidden;
@@ -421,7 +422,7 @@ a:focus {
 }
 
 .who_section .who_deail-box {
-  text-align: right;
+  text-align: left;
   width: 40%;
 }
 
